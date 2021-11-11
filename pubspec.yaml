@@ -58,4 +58,6 @@ flutter:
   uses-material-design: true
 
   fonts:
-    
+    - family: Galano
+      fonts:
+        - asset: ./fonts/GalanoGrotesque.otf
